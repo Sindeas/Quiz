@@ -1,0 +1,16 @@
+current directory: /home/sindeas/rails_app_quiz/vendor/bundle/ruby/3.1.0/gems/debug-1.6.2/ext/debug
+/usr/share/rvm/rubies/ruby-3.1.2/bin/ruby -I /usr/share/rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /home/sindeas/rails_app_quiz/vendor/bundle/ruby/3.1.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20220930-354-gf1eh5 sitelibdir\=./.gem.20220930-354-gf1eh5 clean
+
+current directory: /home/sindeas/rails_app_quiz/vendor/bundle/ruby/3.1.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20220930-354-gf1eh5 sitelibdir\=./.gem.20220930-354-gf1eh5
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/sindeas/rails_app_quiz/vendor/bundle/ruby/3.1.0/gems/debug-1.6.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20220930-354-gf1eh5 sitelibdir\=./.gem.20220930-354-gf1eh5 install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20220930-354-gf1eh5/debug
